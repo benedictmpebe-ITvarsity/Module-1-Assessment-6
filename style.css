@@ -1,6 +1,12 @@
 .gallery img{
     width: 100%;
 }
+h1{
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+}
 h2{
     color: blueviolet;
 }
